@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/*  postion : absolute   :- ka matlab hai 
+meri car uppar utaegi*/
+
+
+#car1{
+    width: 100px;
+    height: 140px;
+    background-color: red;
+}
+
+#car2{
+   /* position: absolute;
+    top: 10%;
+    left: 50%;  */
+
+    position: absolute;
+    width: 80px;
+    height: 120px;
+    background-color: rgb(68, 227, 79);
+}
+
+#car3{
+
+    position: absolute;
+    width: 105px;
+    height: 90px;
+    background-color: yellow;
+}

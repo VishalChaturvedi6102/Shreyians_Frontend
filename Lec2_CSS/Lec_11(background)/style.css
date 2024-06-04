@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+#box{
+    width: 300px;
+    height: 300px;
+    background: url(https://imgs.search.brave.com/WtU32UAvcdLQnVeZD5skyHDszMsXW_0BKpe6BX-SACo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDU4MDE5/OTMuanBn);
+    background-size: contain;  /* cover ka matlab puraay div ko cover karna hai koi bhi hissa chootna nahi chaiye*/
+     /* contain :- aapke image ko div ke andar karta hai chahe koi bhi image ka hissa choot jaye*/
+background-repeat: no-repeat;
+    background-position: center;
+}
+
+#box{
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(to right,/* color1*/red , /*color2*/ yellow);
+}

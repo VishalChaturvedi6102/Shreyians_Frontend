@@ -1,0 +1,3 @@
+position:absolute element uppar udd jata hai
+
+position:fixed :- se element apne positionper hi tiik jata hai jisse scroll ka problem bhi solve ho jata hai

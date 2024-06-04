@@ -1,0 +1,24 @@
+hum kisi bhi cheez ko jab tolte hai tah humare pass units hote hai
+
+
+units : 
+px  % vw vh max min em rem
+
+1px = 1px on screen(depth per inch) 
+(yeah ek fixed format main rehta hai aur screen ke hisaab se change nahi hata 
+jiske wajah se down wala scroller aa jata hai)
+px can be repalced by vw
+
+% - jitna total hai uttna hissna i.e % apne app ko screen ke respect main badal ta hai.
+    (% humesha parent se value leta hai)
+
+
+vh - screen ke total width ka 10% occupy karega (vh screen ke respect main lega)
+
+em - depend karta hai uss element ke font size per, aur agar yeah parent ko dete hai toh children per bhi
+ apply hoga
+ E.G. :- consider kariye ek element hai jiske pass 16px font size hai to 1 em ki value 16px hogi aur font size change 
+ kiya toh uske response main em ki value bhi badegi
+
+
+ rem :- root element unit

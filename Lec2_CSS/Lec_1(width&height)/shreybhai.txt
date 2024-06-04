@@ -1,0 +1,12 @@
+task - ek box banao jo ki red ho
+soln :- STEPS : 
+ek box banao aur usse red karo
+div banai html main
+div ko height do css main 
+bckgrd color red karo
+
+box = matlab div
+
+
+jaha bhi ek se zyada elements hai waha div hai
+jaha bhi rectangular shape hai waha div hai

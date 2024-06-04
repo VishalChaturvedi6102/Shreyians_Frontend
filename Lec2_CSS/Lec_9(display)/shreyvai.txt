@@ -1,0 +1,10 @@
+inline :- element 1 ke saath elements 2 bhi ek hi line main aa sakta hai
+iss main width aur height nahi change kar sakta
+
+
+
+block :- aap block elements ko kabhi bhi agal bagal amin nahi rakh sakte hai
+element1 kabhi bhi kisi aur element ko apni row main nahi aane dega 
+woh pura space lega
+
+iss main h and w change kar sakte hai
